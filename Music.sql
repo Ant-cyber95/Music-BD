@@ -1,7 +1,3 @@
--- your code goes here
--- =============================================
--- УДАЛЕНИЕ ТАБЛИЦ (если существуют)
--- =============================================
 
 DROP TABLE IF EXISTS collection_tracks;
 DROP TABLE IF EXISTS collections;
